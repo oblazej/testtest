@@ -1,0 +1,41 @@
+{
+  "main": {
+    "title": {
+      "part1": "Wyjątkowa",
+      "part2": "Identyfikacja Wizualna",
+      "part3": "Twojej Marki"
+    },
+    "write_me": "Współpraca",
+    "about_me": {
+      "title": "O mnie",
+      "description": "Jestem freelancerem. Specjalizuję się w tworzeniu identyfikacji wizualnej, a więc w tworzeniu pozytywnych emocji i skojarzeń związanych z marką, poprzez wyjątkowe projekty graficzne. Pomagam w realizacji marzeń i kreowaniu wyjątkowych marek. Jeśli pragniesz pięknej i efektywnej oprawy graficznej, która oczaruje Twoich klientów i przyniesie Ci zyski, to zapraszam do współpracy!",
+      "more": "Więcej o mnie"
+    }
+  },
+  "about_me": {
+    "personal": {
+      "title": "A bardziej personalnie...",
+      "description1": "Jestem freelancerem. Specjalizuję się w tworzeniu identyfikacji wizualnej, a więc w tworzeniu pozytywnych emocji i skojarzeń związanych z marką, poprzez wyjątkowe projekty graficzne. Pomagam w realizacji marzeń i kreowaniu wyjątkowych marek.",
+      "description2": "Jestem absolwentką dwóch kierunków; zarządzania i digital design. Takie połączenie pozwoliło mi na połączenie umiejętności z zakresu sztuki i projektowania wraz z wiedzą na temat rozwoju firmy i marketingu. Dzięki takiemu połączeniu lepiej potrafię dopasować projekt do potrzeb działalności, biorąc pod uwagę nie tylko wizulaną stronę, ale również funkcjonalną, która pozwoli przenieść Twoją markę na wyższy poziom.",
+      "start": "Zacznijmy współpracę"
+    }
+  },
+  "offer": {
+    "title": {
+      "part1": "To Co,",
+      "part2": "Zaczynamy Tworzyć",
+      "part3": "Magię?"
+    },
+    "description1": "Sprawdź moją ofertę, w której znajdziesz wszystkie informacje o współpracy.",
+    "description2": "A jeśli chcesz ze mną współpracować, wypełnij formularz, na podstawie którego będziemy mogli ustalić wszystkie szczegóły!",
+    "my_offer": "Oferta",
+    "form": "Formularz"
+  },
+  "all": {
+    "insta1": "Obserwuj mnie",
+    "insta2": "na Instagramie:",
+    "navbar1": "Współpraca",
+    "navbar2": "O mnie",
+    "navbar3": "PL"
+  }
+}
