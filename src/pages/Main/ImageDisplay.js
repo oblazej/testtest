@@ -5,7 +5,7 @@ export default function ImageDisplay() {
 
     return (
         // grayscale-[50%] powoduje schowanie menu z tylu 
-        <div className="bg-beige-light border-b border-[#000] py-7 grayscale-[50%] hover:grayscale-0 transition duration-500">
+        <div className="bg-beige-light border-b border-[#000] py-7 xl:py-14 xl:pl-10 xl:pr-11 xl:border-l">
             <img src={image} alt="product" />
         </div>
     );

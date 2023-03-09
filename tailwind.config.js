@@ -5,6 +5,14 @@ module.exports = {
   ],
   theme: {
     extend: {
+      width: {
+        'small': '152px',
+        'big': '311px'
+      },
+      height: {
+        'small': '21px',
+        'big': '43px'
+      },
       fontFamily: {
         'ivy': ['Ivypresto-Display', 'sans-serif'],
         'mont': ['Montserrat', 'sans-serif']
@@ -21,6 +29,7 @@ module.exports = {
       },
       fontSize: {
         'title': '1.4375rem',
+        'titlebig': '3.125rem',
         'work': '0.5625rem',
         'about': '5rem',
         'description': '1.0625rem',
@@ -28,10 +37,13 @@ module.exports = {
         'insta': '1.625rem',
         'footer': '1.3125rem',
         'offer': '2.0625rem',
-        'personal': '2.6875rem'
+        'personal': '2.6875rem',
+        'offerbig': '3.125rem',
+        'moreaboutbig': '1.1875rem'
       },
       lineHeight: {
         'title': '2.1875rem',
+        'titlebig': '4.6875rem',
         'writeme': '0.875rem',
         'description': '1.6875rem',
         'moreabout': '1.8125rem',
@@ -47,7 +59,8 @@ module.exports = {
         'graphic': '0.059375rem',
         'offer': '0.103125rem',
         'description': '0.053125rem',
-        'moreabout': '0.11875rem'
+        'moreabout': '0.11875rem',
+        'offerbig': '0.15625rem'
       }
     }
   },

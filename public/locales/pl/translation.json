@@ -8,7 +8,7 @@
     "write_me": "Współpraca",
     "about_me": {
       "title": "O mnie",
-      "description": "Jestem freelancerem. Specjalizuję się w tworzeniu identyfikacji wizualnej, a więc w tworzeniu pozytywnych emocji i skojarzeń związanych z marką, poprzez wyjątkowe projekty graficzne. Pomagam w realizacji marzeń i kreowaniu wyjątkowych marek. Jeśli pragniesz pięknej i efektywnej oprawy graficznej, która oczaruje Twoich klientów i przyniesie Ci zyski, to zapraszam do współpracy!",
+      "description": "Cześć! Jestem Wika, a dokładnie to Wiktoria Kamińska. Stoję za marką Graphic Witch i od 6 lat pracuje jako projektantka graficzna. Tworzenie od zawsze sprawiało mi wiele radości, ale to tworzenie dla kogoś cieszy mnie najbardziej! Od zawsze też marzyłam o niezależności i pracy na własną rękę, dlatego tak wielką satysfakcję daje mi pomoc w kreowaniu marek osobom, które chcą walczyć o swoje biznesowe marzenia. Uwielbiam pracę z kobietami i jestem w pełni team #girlpower. Czuje więc ogromne szczęście, widząc jak marki z którymi współpracuje rozwijają się i rosną w siłę!",
       "more": "Więcej o mnie"
     }
   },
@@ -29,13 +29,15 @@
     "description1": "Sprawdź moją ofertę, w której znajdziesz wszystkie informacje o współpracy.",
     "description2": "A jeśli chcesz ze mną współpracować, wypełnij formularz, na podstawie którego będziemy mogli ustalić wszystkie szczegóły!",
     "my_offer": "Oferta",
-    "form": "Formularz"
+    "form": "Formularz",
+    "link_offer": "https://drive.google.com/file/d/1Yjvgo97hWJ0vJS2T1mawzWkwiSbBf8t-/view?fbclid=IwAR0i38FWussmPrYHvfgv_SNUT0jyV4vz01JRqCoMcUagxcZi2AMCb99sFAM",
+    "link_form": "https://docs.google.com/forms/d/e/1FAIpQLSe1yzJ-tQDC5KhR6Z6FVLLGw3IG2opr03cbOLY40BZ-Ku1eGA/viewform?fbclid=IwAR0i38FWussmPrYHvfgv_SNUT0jyV4vz01JRqCoMcUagxcZi2AMCb99sFAM"
   },
   "all": {
     "insta1": "Obserwuj mnie",
     "insta2": "na Instagramie:",
     "navbar1": "Współpraca",
     "navbar2": "O mnie",
-    "navbar3": "PL"
+    "navbar3": "PL/EN"
   }
 }

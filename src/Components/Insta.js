@@ -15,7 +15,7 @@ export default function Insta() {
             <p className='font-mont font-light text-center text-xl pt-8 tracking-graphic leading-moreabout'><a href="https://www.instagram.com/graphic_witch/">@graphic_witch</a></p>
             </div>
             <div className='flex justify-between mb-24'>
-            {images.map(item => <img className="w-[137px]" src={require('../static/img/products/' + item + '.png')} key={item}/>)}
+            {images.map(item => <img className="w-1/3 xl:w-1/6" src={require('../static/img/products/' + item + '.png')} key={item}/>)}
             </div>
         </div>
     );

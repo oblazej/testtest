@@ -1,7 +1,43 @@
 {
-    "title": "inglisz",
-    "description": {
-      "part1": "To get started, edit <1>src/App.js</1> and save to reload.",
-      "part2": "Switch language between english and german using buttons above."
+  "main": {
+    "title": {
+      "part1": "Unique",
+      "part2": "Visual Identity",
+      "part3": "Of Your Brand"
+    },
+    "write_me": "Work with me",
+    "about_me": {
+      "title": "About",
+      "description": "Hi! I' m Wika - Wiktoria Kamińska, to be precise. I’m standing behind Graphic Witch, I've been working as a graphic designer for 6 years. Creating has always given me a lot of joy, but creating for someone.. that truly makes me happy! I have always dreamed of being independent and working on my own. That is why helping to create brands for people, who want to fight for their business dreams, gives me such great satisfaction. I love working with women and I am totally team #girlpower. I feel very happy to see how the brands I work with develop and grow in strength!",
+      "more": "More about me"
     }
+  },
+  "about_me": {
+    "personal": {
+      "title": "And less formally...",
+      "description1": "I love to create both professionally and as a hobby. I enjoy experimenting with pencils, charcoal, paints and markers, and the bigger is the paper, the more fun! I also like to play ukulele in my spare time and sing along to it.",
+      "description2": "Minimalism is close to me not only in design, because in general I try to live according to the statement less is more. I also like to do some yoga from time to time, and I disturb my inner peace with rock concerts.",
+      "start": "Let's work together"
+    }
+  },
+  "offer": {
+    "title": {
+      "part1": "So,",
+      "part2": "Are we starting",
+      "part3": "To create magic?"
+    },
+    "description1": "Check my offer, where you will find all information about working with me.",
+    "description2": "And if you want to collaborate, fill out the form, basing on it we will be able to discuss all the details!",
+    "my_offer": "Offer",
+    "form": "Form",
+    "link_offer": "https://drive.google.com/file/d/1Yjvgo97hWJ0vJS2T1mawzWkwiSbBf8t-/view?fbclid=IwAR0i38FWussmPrYHvfgv_SNUT0jyV4vz01JRqCoMcUagxcZi2AMCb99sFAM",
+    "link_form": "https://docs.google.com/forms/d/e/1FAIpQLSe1yzJ-tQDC5KhR6Z6FVLLGw3IG2opr03cbOLY40BZ-Ku1eGA/viewform?fbclid=IwAR0i38FWussmPrYHvfgv_SNUT0jyV4vz01JRqCoMcUagxcZi2AMCb99sFAM"
+  },
+  "all": {
+    "insta1": "Follow me",
+    "insta2": "On Instagram:",
+    "navbar1": "Collaboration",
+    "navbar2": "About Me",
+    "navbar3": "EN/PL"
   }
+}
