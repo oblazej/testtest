@@ -22,7 +22,7 @@ export default function Navbar() {
 
     return (
         <nav className="bg-beige-light py-6 px-6 flex flex-row justify-between sticky top-0 xl:border-b xl:border-[#000] xl:py-0 xl:px-0">
-            <Link to="/" className="xl:w-[62%] xl:flex xl:justify-center">
+            <Link to="/" className="xl:w-full xl:flex-1 xl:flex xl:justify-center xl:min-w-[560px]">
                 <Logo width="big" height="big"/>
             </Link>
             <button className="xl:hidden" id="toggle" onClick={() => {
@@ -31,7 +31,7 @@ export default function Navbar() {
             }}>
                 <MenuButton />
             </button>
-            <ul id="nav" className="fixed top-12 bottom-0 -right-full w-full bg-beige-light font-ivy font-thin uppercase text-2xl text-center leading-title tracking-insta flex flex-col justify-center pb-24 xl:pb-0 transition-all xl:static xl:flex-row xl:justify-end">
+            <ul id="nav" className="xl:w-full xl:flex-[2] fixed top-12 bottom-0 -right-full w-full bg-beige-light font-ivy font-thin uppercase text-2xl text-center leading-title tracking-insta flex flex-col justify-center pb-24 xl:pb-0 transition-all xl:static xl:flex-row xl:justify-end">
                 <li className="py-11 xl:py-6 xl:border-l xl:px-2 xl:border-r xl:border-[#000] xl:w-1/3 hover:line-through">
                     <Link to="offer" onClick={() => {
                         document.getElementById("nav").classList.toggle("-right-full");

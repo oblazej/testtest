@@ -5,11 +5,13 @@ import About from './pages/About/About';
 import Footer from './Components/Footer';
 import Offer from './pages/Offer/Offer';
 import { Route, Routes } from 'react-router-dom';
+import ScrollToTop from "./Components/scrollToTop";
 
 export default function App() {
   return (
     <Suspense fallback="loading">
       <Navbar />
+        <ScrollToTop />
       <Routes>
         <Route path="/" element={<Main />} />
         <Route path="about" element={<About />} />
